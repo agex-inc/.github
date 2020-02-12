@@ -9,6 +9,9 @@ _As a [...], I want [...] so that [...]._
 ## Current Behavior
 1.
 
+## Steps to Reproduce
+1.
+
 ## Acceptance Criteria
 1.
 
